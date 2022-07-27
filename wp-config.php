@@ -27,7 +27,7 @@ define( 'DB_NAME', 'bukegfhe_wp253' );
 define( 'DB_USER', 'bukegfhe_wp253' );
 
 /** Database password */
-define( 'DB_PASSWORD', '-9-!rSn]l3-I9pe3' );
+define( 'DB_PASSWORD', 'Linda830616@@' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
